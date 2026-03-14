@@ -1,0 +1,21 @@
+2026-03-14 09:42:12 [INFO]    === Sesi recon baru dimulai ===
+2026-03-14 09:42:12 [INFO]    Input: 6 domain dimuat dari /home/shofwan/recon-automation/input/domains.txt
+2026-03-14 09:42:12 [INFO]    Pengecekan tool berhasil: subfinder
+httpx
+anew
+2026-03-14 09:42:12 [INFO]    [1/6] subfinder berjalan untuk: dropbox.com
+2026-03-14 09:42:43 [SUCCESS] subfinder OK untuk dropbox.com | total unik: 2156
+2026-03-14 09:42:43 [INFO]    [2/6] subfinder berjalan untuk: shopify.com
+2026-03-14 09:43:04 [SUCCESS] subfinder OK untuk shopify.com | total unik: 3546
+2026-03-14 09:43:04 [INFO]    [3/6] subfinder berjalan untuk: atlassian.com
+2026-03-14 09:46:06 [SUCCESS] subfinder OK untuk atlassian.com | total unik: 21176
+2026-03-14 09:46:06 [INFO]    [4/6] subfinder berjalan untuk: hackerone.com
+2026-03-14 09:46:11 [SUCCESS] subfinder OK untuk hackerone.com | total unik: 21192
+2026-03-14 09:46:11 [INFO]    [5/6] subfinder berjalan untuk: zendesk.com
+2026-03-14 09:56:12 [SUCCESS] subfinder OK untuk zendesk.com | total unik: 39580
+2026-03-14 09:56:12 [SUCCESS] Fase 1 selesai. Total subdomain unik: 39580
+2026-03-14 09:56:12 [INFO]    httpx memprobe 39580 subdomain
+2026-03-14 09:56:13 [INFO]    === RINGKASAN AKHIR ===
+2026-03-14 09:56:13 [INFO]    Subdomain unik : 39580
+2026-03-14 09:56:13 [INFO]    Host aktif     : 0
+2026-03-14 09:56:13 [INFO]    Pipeline recon selesai pada 2026-03-14 09:56:13

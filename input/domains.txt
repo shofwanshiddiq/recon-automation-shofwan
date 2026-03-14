@@ -1,0 +1,7 @@
+# domains.txt — Daftar domain target untuk recon
+
+dropbox.com
+shopify.com
+atlassian.com
+hackerone.com
+zendesk.com
